@@ -63,7 +63,7 @@ extern NSString *const kFitWidth;
 /**
  *  Unserialize the object from a dictionary
  *
- *  @param the NSDictionary representing the object
+ *  @param dictionary NSDictionary representing the object
  */
 - (void)unserialize:(NSDictionary*)dictionary;
 

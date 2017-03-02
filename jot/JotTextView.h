@@ -176,7 +176,7 @@
 /**
  *  Unserialize the draw view from an array
  *
- *  @param the NSArray representing the object
+ *  @param array NSArray representing the object
  */
 - (void)unserialize:(NSArray*)array;
 
